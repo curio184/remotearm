@@ -93,3 +93,22 @@ VSCode実行環境の構築
 Community Build版のVSCodeをインストールする
 $ sudo apt install code-oss -y --allow-unauthenticated
 ```
+
+VSCodeでプロジェクトを起動する
+------------
+
+OpenProject.shをクリックします。
+
+VSCodeの拡張機能をインストールする
+------------
+
+・Japanese Language Pack for Visual Studio Code
+　(ms-ceintl.vscode-language-pack-ja)
+・Bookmarks
+　(alefragnani.bookmarks)
+・Python
+　(ms-python.python)
+・autoDocstring
+　(njpwerner.autodocstring)
+・GitLens
+　(eamodio.gitlens)
