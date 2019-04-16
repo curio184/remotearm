@@ -1,3 +1,3 @@
 #!/bin/sh
-. ~/source/cathand/.venv/py372/bin/activate
-code-oss ~/source/cathand/
+. ~/source/remotearm/.venv/py372/bin/activate
+code-oss ~/source/remotearm/
