@@ -102,6 +102,7 @@ OpenProject.shをクリックします。
 VSCodeの拡張機能をインストールする
 ------------
 
+```
 ・Japanese Language Pack for Visual Studio Code
 　(ms-ceintl.vscode-language-pack-ja)
 ・Bookmarks
@@ -112,3 +113,4 @@ VSCodeの拡張機能をインストールする
 　(njpwerner.autodocstring)
 ・GitLens
 　(eamodio.gitlens)
+```
