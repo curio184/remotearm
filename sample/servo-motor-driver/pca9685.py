@@ -22,9 +22,9 @@ class Process:
     def start(self):
         try:
             while True:
-                self._pwm.set_pwm(2, 0, self._pulse_min)
+                self._pwm.set_pwm(0, 0, self._pulse_min)
                 time.sleep(1)
-                self._pwm.set_pwm(2, 0, self._pulse_max)
+                self._pwm.set_pwm(0, 0, self._pulse_max)
                 time.sleep(1)
         except KeyboardInterrupt:
             pass
