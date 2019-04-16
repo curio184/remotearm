@@ -17,9 +17,12 @@ Python仮想環境のパス | /home/pi/source/remotearm/.venv/py372/
 ------------
 
 サンプルプロジェクトを用意したのでcloneしてください。
+
+```
 $ mkdir ~/source
 $ cd ~/source
 $ git clone https://github.com/curio184/remotearm.git
+```
 
 
 Python実行環境の構築
